@@ -8,6 +8,8 @@ Just a simple front-end practice trying to use the followings together:
 - TanStack Router
 - Tailwind css
 
+I also use this to learn how to deploy a react app to cloudflare page.
+
 # If want to try
 
 1. git clone
@@ -18,3 +20,8 @@ Just a simple front-end practice trying to use the followings together:
 # Preview
 
 [frontend-practice-01](https://frontend-practice-01.page.nurbxfit.com/)
+
+# Deploy
+
+1. yarn build
+2. upload the dist directory to cloudflare page
