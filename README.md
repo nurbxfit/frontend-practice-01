@@ -14,3 +14,7 @@ Just a simple front-end practice trying to use the followings together:
 2. cd into directory
 3. yarn install
 4. yarn dev
+
+# Preview
+
+[frontend-practice-01](https://frontend-practice-01.page.nurbxfit.com/)
